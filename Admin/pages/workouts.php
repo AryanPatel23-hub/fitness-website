@@ -28,7 +28,6 @@
                         <a href="settings.php" class="nav-item" data-page="settings"><span class="material-icons nav-icon">settings</span><span class="nav-label">Settings</span></a>
                     </nav>
                     <div class="sidebar-bottom">
-                        <button type="button" class="sidebar-toggle" id="sidebarToggle" aria-label="Collapse sidebar"><span class="material-icons">menu_open</span></button>
                         <a href="#" class="nav-item nav-logout"><span class="material-icons nav-icon">logout</span><span class="nav-label">Logout</span></a>
                     </div>
                 </div>
